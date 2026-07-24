@@ -145,8 +145,6 @@ Training artifacts included in this repository:
 
 - training_loss.png
 - training_loss.csv
-- student_dino_minimal.pth
-- teacher_dino_minimal.pth
 
 ---
 
